@@ -9,7 +9,7 @@
 #You can recode This Tools 
 #But I beg you not to delete the author's name.
 
-Get used to mutual respect for someone's work!!!
+#Get used to mutual respect for someone's work!!!
 
 import requests,re,time,random ,os, sys, socket
 from multiprocessing.dummy import Pool
