@@ -21,7 +21,7 @@ def Banner():
 	print "==================================================="
 	print Fore.RED + "[!] Reverse IP Auto Remove Duplicate Result !!! |" + Fore.WHITE +" "+ Fore.GREEN + "PYTHON CODE" + Fore.WHITE
 	print Fore.RED + "[!] Contact : " + Fore.WHITE+"ICQ : Shin403" +"|"+ "TELEGRAM : Shin_code"
-	print Fore.RED + "[!] Host : " + Fore.WHITE+"Py@"+host_name
+	print Fore.RED + "[!] Host : " + Fore.WHITE+"Shin@"+host_name
 	print Fore.RED + "[!] LocalHost : " + Fore.WHITE + host_ip
 	print "===================================================" 
 Banner()
